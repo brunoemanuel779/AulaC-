@@ -1,0 +1,9 @@
+E:\Executaveis liberados\Aula5\Aula5\bin\Debug\Aula5.exe.config
+E:\Executaveis liberados\Aula5\Aula5\bin\Debug\Aula5.exe
+E:\Executaveis liberados\Aula5\Aula5\bin\Debug\Aula5.pdb
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.FrmCombo.resources
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.exe
+E:\Executaveis liberados\Aula5\Aula5\obj\Debug\Aula5.pdb

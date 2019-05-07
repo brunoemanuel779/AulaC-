@@ -1,0 +1,9 @@
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\bin\Debug\AulaCheckBox.exe.config
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\bin\Debug\AulaCheckBox.exe
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\bin\Debug\AulaCheckBox.pdb
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.FrmCheckBox.resources
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.Properties.Resources.resources
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.csproj.GenerateResource.Cache
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.exe
+E:\Executaveis liberados\AulaCheckBox\AulaCheckBox\obj\Debug\AulaCheckBox.pdb

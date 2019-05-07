@@ -1,0 +1,9 @@
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\bin\Debug\Exerciocombobox.exe.config
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\bin\Debug\Exerciocombobox.exe
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\bin\Debug\Exerciocombobox.pdb
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.FrmPrincipal.resources
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.Properties.Resources.resources
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.exe
+E:\Executaveis liberados\Exerciocombobox\Exerciocombobox\obj\Debug\Exerciocombobox.pdb

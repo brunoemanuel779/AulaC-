@@ -1,0 +1,8 @@
+E:\Executaveis liberados\semaforo\semaforo\bin\Debug\semaforo.exe.config
+E:\Executaveis liberados\semaforo\semaforo\bin\Debug\semaforo.exe
+E:\Executaveis liberados\semaforo\semaforo\bin\Debug\semaforo.pdb
+E:\Executaveis liberados\semaforo\semaforo\obj\Debug\semaforo.Form1.resources
+E:\Executaveis liberados\semaforo\semaforo\obj\Debug\semaforo.Properties.Resources.resources
+E:\Executaveis liberados\semaforo\semaforo\obj\Debug\semaforo.csproj.GenerateResource.Cache
+E:\Executaveis liberados\semaforo\semaforo\obj\Debug\semaforo.exe
+E:\Executaveis liberados\semaforo\semaforo\obj\Debug\semaforo.pdb

@@ -1,0 +1,8 @@
+U:\Executaveis Liberados\Aula3\Aula3\bin\Debug\Aula3.exe.config
+U:\Executaveis Liberados\Aula3\Aula3\obj\Debug\Aula3.frmPRINCIPAL.resources
+U:\Executaveis Liberados\Aula3\Aula3\obj\Debug\Aula3.Properties.Resources.resources
+U:\Executaveis Liberados\Aula3\Aula3\obj\Debug\Aula3.csproj.GenerateResource.Cache
+U:\Executaveis Liberados\Aula3\Aula3\bin\Debug\Aula3.exe
+U:\Executaveis Liberados\Aula3\Aula3\bin\Debug\Aula3.pdb
+U:\Executaveis Liberados\Aula3\Aula3\obj\Debug\Aula3.exe
+U:\Executaveis Liberados\Aula3\Aula3\obj\Debug\Aula3.pdb

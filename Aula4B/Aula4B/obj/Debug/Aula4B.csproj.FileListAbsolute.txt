@@ -1,0 +1,9 @@
+E:\Executaveis liberados\Aula4B\Aula4B\bin\Debug\Aula4B.exe.config
+E:\Executaveis liberados\Aula4B\Aula4B\bin\Debug\Aula4B.exe
+E:\Executaveis liberados\Aula4B\Aula4B\bin\Debug\Aula4B.pdb
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.frmprincipal.resources
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.Properties.Resources.resources
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.exe
+E:\Executaveis liberados\Aula4B\Aula4B\obj\Debug\Aula4B.pdb

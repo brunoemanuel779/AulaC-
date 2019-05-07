@@ -1,0 +1,8 @@
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\bin\Debug\Exercicio2a.exe.config
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\bin\Debug\Exercicio2a.exe
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\bin\Debug\Exercicio2a.pdb
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\obj\Debug\Exercicio2a.frmprincipal.resources
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\obj\Debug\Exercicio2a.Properties.Resources.resources
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\obj\Debug\Exercicio2a.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\obj\Debug\Exercicio2a.exe
+E:\Executaveis liberados\Exercicio2a\Exercicio2a\obj\Debug\Exercicio2a.pdb

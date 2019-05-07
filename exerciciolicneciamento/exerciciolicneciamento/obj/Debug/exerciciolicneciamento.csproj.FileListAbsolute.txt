@@ -1,0 +1,9 @@
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\bin\Debug\exerciciolicneciamento.exe.config
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.frmprincipal.resources
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.Properties.Resources.resources
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.csproj.GenerateResource.Cache
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\bin\Debug\exerciciolicneciamento.exe
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\bin\Debug\exerciciolicneciamento.pdb
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.exe
+E:\Executaveis liberados\exerciciolicneciamento\exerciciolicneciamento\obj\Debug\exerciciolicneciamento.pdb

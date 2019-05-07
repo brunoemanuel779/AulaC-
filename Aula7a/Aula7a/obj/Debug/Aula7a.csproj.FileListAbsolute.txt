@@ -1,0 +1,9 @@
+E:\Executaveis liberados\Aula7a\Aula7a\bin\Debug\Aula7a.exe.config
+E:\Executaveis liberados\Aula7a\Aula7a\bin\Debug\Aula7a.exe
+E:\Executaveis liberados\Aula7a\Aula7a\bin\Debug\Aula7a.pdb
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.frmPrincipal.resources
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.Properties.Resources.resources
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.exe
+E:\Executaveis liberados\Aula7a\Aula7a\obj\Debug\Aula7a.pdb
